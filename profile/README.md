@@ -1,4 +1,4 @@
-# Brand Repository: Qstar
+# Qstar
 
 ![Qstar Logo](../brand/logo/qstar-light-logo.svg)
 
