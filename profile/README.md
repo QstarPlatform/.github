@@ -1,6 +1,6 @@
 # Brand Repository: Qstar
 
-![Qstar Logo](brand/logo/qstar-light-logo.svg)
+![Qstar Logo](../brand/logo/qstar-light-logo.svg)
 
 ## About Qstar Brand
 
